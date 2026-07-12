@@ -68,5 +68,21 @@ GitHub Documentation
 
 ## Dashboard
 
+<a= href="https://github.com/Jyothsna26-17/Data-analytics-dashboard/blob/main/HR%20PROJECT_Fixed.pbix">view/Dashboard</a>
+
+## Project Insights
+The organization has an overall employee attrition rate that highlights the need for improved employee retention strategies.
+Employees in certain departments experience higher attrition than others, indicating areas that require focused HR attention.
+Employees in the 26–35 years age group represent a significant portion of the workforce and contribute to a large share of attrition.
+Lower salary ranges are associated with higher employee turnover, suggesting that compensation may influence retention.
+Some job roles show consistently higher attrition, indicating the need for role-specific engagement and career development programs.
+Most employees have a background in Life Sciences and Medical education fields, reflecting the organization's workforce composition.
+The workforce consists of both male and female employees, with a balanced distribution that supports diversity analysis.
+Interactive filters and visualizations enable HR teams to analyze employee trends across multiple dimensions, supporting faster and more informed decisions.
+
+## Final Conclusion
+
+The HR Analytics Dashboard provides a comprehensive view of workforce performance and employee attrition through interactive visualizations and key performance indicators. By analyzing employee demographics, salary, job roles, education, and departmental trends, the dashboard helps HR professionals identify the major factors affecting employee retention. These insights support data-driven decision-making, allowing the organization to improve employee satisfaction, reduce attrition, optimize workforce planning, and develop effective HR strategies.
+
 
 
